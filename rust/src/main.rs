@@ -1,6 +1,4 @@
-pub mod tests;
 pub mod solutions;
+pub mod tests;
 
-fn main() {
-    println!("Hello, world!");
-}
+fn main() {}
