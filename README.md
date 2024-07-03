@@ -14,4 +14,5 @@
 |125. [Valid Palindrome](https://lcid.cc/125) | [Solution](../rust/src/solutions/p0125.rs) | Easy |
 |169. [Majority Element](https://lcid.cc/169) | [Solution](../rust/src/solutions/p0169.rs) | Easy |
 |189. [Rotate Array](https://lcid.cc/189) | [Solution](../rust/src/solutions/p0189.rs) | Medium |
+|392. [Is Subsequence](https://lcid.cc/392) | [Solution](../rust/src/solutions/p0392.rs) | Easy |
 <!-- table end -->
