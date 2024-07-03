@@ -13,6 +13,7 @@
 |121. [Best Time to Buy and Sell Stock](https://lcid.cc/121) | [Solution](../rust/src/solutions/p0121.rs) | Easy |
 |122. [Best Time to Buy and Sell Stock II](https://lcid.cc/122) | [Solution](../rust/src/solutions/p0122.rs) | Medium |
 |125. [Valid Palindrome](https://lcid.cc/125) | [Solution](../rust/src/solutions/p0125.rs) | Easy |
+|167. [Two Sum II - Input Array Is Sorted](https://lcid.cc/167) | [Solution](../rust/src/solutions/p0167.rs) | Medium |
 |169. [Majority Element](https://lcid.cc/169) | [Solution](../rust/src/solutions/p0169.rs) | Easy |
 |189. [Rotate Array](https://lcid.cc/189) | [Solution](../rust/src/solutions/p0189.rs) | Medium |
 |392. [Is Subsequence](https://lcid.cc/392) | [Solution](../rust/src/solutions/p0392.rs) | Easy |
