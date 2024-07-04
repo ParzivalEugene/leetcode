@@ -25,7 +25,7 @@ impl Solution {
                 }
             }
         }
-        
+
         if trend {
             revenue += gap;
         }
