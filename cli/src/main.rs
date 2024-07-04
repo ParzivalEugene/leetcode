@@ -1,6 +1,6 @@
 use clap::{Parser, Subcommand};
 
-const RUST_PATH: &str = "rust/src";
+const RUST_PATH: &str = "/home/parzival/projects/personal/leetcode/rust/src";
 
 #[derive(Parser, Debug)]
 #[command(version, about, long_about = None)]
