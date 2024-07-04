@@ -1,5 +1,30 @@
 # Solutions for leetcode problems
 
+## Pre-commit
+
+> build pre-commit cargo before !
+
+```bash
+cd pre-commit
+./target/release/pre-commit
+cd -
+git add README.md
+
+cd rust
+for line in $(git status -s)
+    do
+        if [[ $line == A* || $line == M* ]]
+        then
+            if [[ $line == *.rs ]]
+            then
+                cargo fmt -- $(pwd)/${line:3}
+                git add $(pwd)/${line:3}
+            fi
+        fi
+    done
+cd -
+```
+
 <!-- table start -->
 | Problem | Solution | Difficulty |
 |---|---|---|
@@ -21,3 +46,4 @@
 |392. [Is Subsequence](https://lcid.cc/392) | [Solution](../rust/src/solutions/p0392.rs) | Easy |
 |1550. [Three Consecutive Odds](https://lcid.cc/1550) | [Solution](../rust/src/solutions/p1550.rs) | Easy |
 <!-- table end -->
+
