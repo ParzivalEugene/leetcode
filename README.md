@@ -31,6 +31,7 @@ cd -
 |1. [Two Sum](https://lcid.cc/1) | [Solution](../rust/src/solutions/p0001.rs) | Easy |
 |11. [Container With Most Water](https://lcid.cc/11) | [Solution](../rust/src/solutions/p0011.rs) | Medium |
 |13. [Roman to Integer](https://lcid.cc/13) | [Solution](../rust/src/solutions/p0013.rs) | Easy |
+|21. [Merge Two Sorted Lists](https://lcid.cc/21) | [Solution](../rust/src/solutions/p0021.rs) | Easy |
 |26. [Remove Duplicates from Sorted Array](https://lcid.cc/26) | [Solution](../rust/src/solutions/p0026.rs) | Easy |
 |27. [Remove Element](https://lcid.cc/27) | [Solution](../rust/src/solutions/p0027.rs) | Easy |
 |55. [Jump Game](https://lcid.cc/55) | [Solution](../rust/src/solutions/p0055.rs) | Medium |
