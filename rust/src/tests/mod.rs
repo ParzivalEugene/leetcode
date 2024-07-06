@@ -18,3 +18,4 @@ pub mod p0205;
 pub mod p0383;
 pub mod p0392;
 pub mod p1550;
+pub mod p0066;
