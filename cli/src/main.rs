@@ -37,6 +37,11 @@ fn add_solution(raw_id: u32) {
             "#[cfg(test)]
 mod test {{
     use crate::solutions::p{}::Solution;
+    
+    #[test]
+    fn leetcode_case_1() {{
+        
+    }}
 }}",
             id
         ),
