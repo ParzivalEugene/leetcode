@@ -21,7 +21,7 @@ fn exists(id: &str) -> bool {
 
 fn add_solution(raw_id: u32) {
     let id = format!("{:0>4}", raw_id);
-    
+
     if exists(&id) {
         eprintln!("Solution for problem {} already exists", id);
         return;
@@ -50,6 +50,12 @@ mod test {{
     let mut tests = std::fs::read_to_string(format!("{}/tests/mod.rs", RUST_PATH)).unwrap();
     tests.push_str(&format!("pub mod p{};\n", id));
     std::fs::write(format!("{}/tests/mod.rs", RUST_PATH), tests).unwrap();
+
+    std::process::Command::new("code")
+        .arg(&path)
+        .arg(&test_path)
+        .spawn()
+        .unwrap();
 }
 
 fn main() {
