@@ -11,14 +11,15 @@ cd -
 git add README.md
 
 cd rust
+IFS=$'\n'
 for line in $(git status -s)
     do
         if [[ $line == A* || $line == M* ]]
         then
             if [[ $line == *.rs ]]
             then
-                cargo fmt -- $(pwd)/$line
-                git add $(pwd)/$line
+                rustfmt $(pwd)/${line:3}
+                git add $(pwd)/${line:3}
             fi
         fi
     done
