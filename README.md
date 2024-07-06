@@ -17,8 +17,8 @@ for line in $(git status -s)
         then
             if [[ $line == *.rs ]]
             then
-                cargo fmt -- $(pwd)/${line:3}
-                git add $(pwd)/${line:3}
+                cargo fmt -- $(pwd)/$line
+                git add $(pwd)/$line
             fi
         fi
     done
