@@ -29,6 +29,7 @@ cd -
 | Problem | Solution | Difficulty |
 |---|---|---|
 |1. [Two Sum](https://lcid.cc/1) | [Solution](../rust/src/solutions/p0001.rs) | Easy |
+|9. [Palindrome Number](https://lcid.cc/9) | [Solution](../rust/src/solutions/p0009.rs) | Easy |
 |11. [Container With Most Water](https://lcid.cc/11) | [Solution](../rust/src/solutions/p0011.rs) | Medium |
 |13. [Roman to Integer](https://lcid.cc/13) | [Solution](../rust/src/solutions/p0013.rs) | Easy |
 |21. [Merge Two Sorted Lists](https://lcid.cc/21) | [Solution](../rust/src/solutions/p0021.rs) | Easy |
