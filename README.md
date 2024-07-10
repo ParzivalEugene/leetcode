@@ -39,6 +39,7 @@ cd -
 |11. [Container With Most Water](https://lcid.cc/11) | [Solution](../rust/src/solutions/p0011.rs) | Medium |
 |13. [Roman to Integer](https://lcid.cc/13) | [Solution](../rust/src/solutions/p0013.rs) | Easy |
 |14. [Longest Common Prefix](https://lcid.cc/14) | [Solution](../rust/src/solutions/p0014.rs) | Easy |
+|20. [Valid Parentheses](https://lcid.cc/20) | [Solution](../rust/src/solutions/p0020.rs) | Easy |
 |21. [Merge Two Sorted Lists](https://lcid.cc/21) | [Solution](../rust/src/solutions/p0021.rs) | Easy |
 |26. [Remove Duplicates from Sorted Array](https://lcid.cc/26) | [Solution](../rust/src/solutions/p0026.rs) | Easy |
 |27. [Remove Element](https://lcid.cc/27) | [Solution](../rust/src/solutions/p0027.rs) | Easy |
