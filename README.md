@@ -57,6 +57,7 @@ cd -
 |169. [Majority Element](https://lcid.cc/169) | [Solution](../rust/src/solutions/p0169.rs) | Easy |
 |172. [Factorial Trailing Zeroes](https://lcid.cc/172) | [Solution](../rust/src/solutions/p0172.rs) | Medium |
 |189. [Rotate Array](https://lcid.cc/189) | [Solution](../rust/src/solutions/p0189.rs) | Medium |
+|202. [Happy Number](https://lcid.cc/202) | [Solution](../rust/src/solutions/p0202.rs) | Easy |
 |205. [Isomorphic Strings](https://lcid.cc/205) | [Solution](../rust/src/solutions/p0205.rs) | Easy |
 |242. [Valid Anagram](https://lcid.cc/242) | [Solution](../rust/src/solutions/p0242.rs) | Easy |
 |274. [H-Index](https://lcid.cc/274) | [Solution](../rust/src/solutions/p0274.rs) | Medium |
