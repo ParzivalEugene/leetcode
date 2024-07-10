@@ -49,6 +49,7 @@ cd -
 |55. [Jump Game](https://lcid.cc/55) | [Solution](../rust/src/solutions/p0055.rs) | Medium |
 |58. [Length of Last Word](https://lcid.cc/58) | [Solution](../rust/src/solutions/p0058.rs) | Easy |
 |66. [Plus One](https://lcid.cc/66) | [Solution](../rust/src/solutions/p0066.rs) | Easy |
+|70. [Climbing Stairs](https://lcid.cc/70) | [Solution](../rust/src/solutions/p0070.rs) | Easy |
 |80. [Remove Duplicates from Sorted Array II](https://lcid.cc/80) | [Solution](../rust/src/solutions/p0080.rs) | Medium |
 |88. [Merge Sorted Array](https://lcid.cc/88) | [Solution](../rust/src/solutions/p0088.rs) | Easy |
 |121. [Best Time to Buy and Sell Stock](https://lcid.cc/121) | [Solution](../rust/src/solutions/p0121.rs) | Easy |
