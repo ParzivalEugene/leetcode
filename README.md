@@ -43,6 +43,7 @@ cd -
 |26. [Remove Duplicates from Sorted Array](https://lcid.cc/26) | [Solution](../rust/src/solutions/p0026.rs) | Easy |
 |27. [Remove Element](https://lcid.cc/27) | [Solution](../rust/src/solutions/p0027.rs) | Easy |
 |28. [Find the Index of the First Occurrence in a String](https://lcid.cc/28) | [Solution](../rust/src/solutions/p0028.rs) | Easy |
+|36. [Valid Sudoku](https://lcid.cc/36) | [Solution](../rust/src/solutions/p0036.rs) | Medium |
 |49. [Group Anagrams](https://lcid.cc/49) | [Solution](../rust/src/solutions/p0049.rs) | Medium |
 |55. [Jump Game](https://lcid.cc/55) | [Solution](../rust/src/solutions/p0055.rs) | Medium |
 |58. [Length of Last Word](https://lcid.cc/58) | [Solution](../rust/src/solutions/p0058.rs) | Easy |
