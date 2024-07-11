@@ -22,7 +22,7 @@ for line in $(git status -s)
         then
             if [[ $line == *.rs ]]
             then
-                rustfmt $(pwd)/${line:3}
+                cargo fmt
                 git add $(pwd)/${line:3}
             fi
         fi
