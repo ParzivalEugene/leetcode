@@ -20,9 +20,6 @@ mod test {
 
     #[test]
     fn leetcode_case_3() {
-        assert_eq!(
-            Solution::convert(String::from("AB"), 1),
-            String::from("AB")
-        )
+        assert_eq!(Solution::convert(String::from("AB"), 1), String::from("AB"))
     }
 }

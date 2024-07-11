@@ -34,7 +34,6 @@ mod test {
         );
     }
 
-    
     #[test]
     fn leetcode_case_5() {
         assert_eq!(

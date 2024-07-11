@@ -6,10 +6,11 @@ impl Solution {
         for dir in path.split('/') {
             match dir {
                 "" | "." => continue,
-                ".." => {dir_stack.pop();},
-                _ => dir_stack.push(dir)    
+                ".." => {
+                    dir_stack.pop();
+                }
+                _ => dir_stack.push(dir),
             }
-            
         }
         format!("/{}", dir_stack.join("/"))
     }

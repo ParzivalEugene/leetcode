@@ -5,7 +5,7 @@ pub struct Solution;
 impl Solution {
     pub fn group_anagrams(strs: Vec<String>) -> Vec<Vec<String>> {
         let mut table: HashMap<String, Vec<String>> = HashMap::new();
-        
+
         for word in strs {
             let mut key_vec: Vec<char> = word.chars().collect();
             key_vec.sort();

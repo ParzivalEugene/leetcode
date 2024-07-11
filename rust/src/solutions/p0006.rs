@@ -5,7 +5,7 @@ impl Solution {
         if num_rows == 1 {
             return s;
         }
-        
+
         let mut pools: Vec<String> = vec![String::new(); num_rows as usize];
         let (mut i, mut dir) = (0, 1);
         let end = num_rows - 1;
@@ -16,6 +16,6 @@ impl Solution {
             }
             i += dir;
         }
-        return pools.join("")
+        return pools.join("");
     }
 }
