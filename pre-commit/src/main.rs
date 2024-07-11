@@ -1,4 +1,3 @@
-use regex::Regex;
 use std::{
     collections::{HashMap, HashSet},
     fs, u32,
@@ -80,15 +79,17 @@ fn read_table() -> Vec<Problem> {
         .collect::<Vec<&str>>()[0]
         .to_owned();
 
-    let re =
-        Regex::new(r"\|\s*\[(.+?)\]\((.+?)\)\s*\|\s*\[(.+?)\]\((.+?)\)\s*\|\s*(.+?)\s*\|").unwrap();
+    let mut table = readme.split("\n").collect::<Vec<&str>>();
+    table = table[3..table.len() - 1].to_vec();
 
-    for cap in re.captures_iter(&readme) {
-        let problem = cap[1].split('.').collect::<Vec<&str>>();
-        let id = problem[0].parse::<u32>().unwrap();
-        let name = problem[1];
-        let url = &cap[2];
-        let difficulty = &cap[5];
+    for line in table {
+        let chunks = line.split('|').collect::<Vec<&str>>();
+        let difficulty = chunks[chunks.len() - 2].trim();
+        let (id_raw, block) = chunks[1].trim().split_once(". ").unwrap();
+        let id = id_raw.parse::<u32>().unwrap();
+        let (mut name, mut url) = block.split_once("(").unwrap();
+        name = &name[1..name.len() - 1];
+        url = &url[0..url.len() - 1];
 
         problems.push(Problem {
             id: id,
