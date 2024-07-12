@@ -74,6 +74,7 @@ cd -
 |383. [Ransom Note](https://lcid.cc/383) | [Solution](../rust/src/solutions/p0383.rs) | Easy |
 |392. [Is Subsequence](https://lcid.cc/392) | [Solution](../rust/src/solutions/p0392.rs) | Easy |
 |443. [String Compression](https://lcid.cc/443) | [Solution](../rust/src/solutions/p0443.rs) | Medium |
+|724. [Find Pivot Index](https://lcid.cc/724) | [Solution](../rust/src/solutions/p0724.rs) | Easy |
 |1071. [Greatest Common Divisor of Strings](https://lcid.cc/1071) | [Solution](../rust/src/solutions/p1071.rs) | Easy |
 |1550. [Three Consecutive Odds](https://lcid.cc/1550) | [Solution](../rust/src/solutions/p1550.rs) | Easy |
 |1679. [Max Number of K-Sum Pairs](https://lcid.cc/1679) | [Solution](../rust/src/solutions/p1679.rs) | Medium |
