@@ -75,6 +75,7 @@ cd -
 |383. [Ransom Note](https://lcid.cc/383) | [Solution](../rust/src/solutions/p0383.rs) | Easy |
 |392. [Is Subsequence](https://lcid.cc/392) | [Solution](../rust/src/solutions/p0392.rs) | Easy |
 |443. [String Compression](https://lcid.cc/443) | [Solution](../rust/src/solutions/p0443.rs) | Medium |
+|485. [Max Consecutive Ones](https://lcid.cc/485) | [Solution](../rust/src/solutions/p0485.rs) | Easy |
 |649. [Dota2 Senate](https://lcid.cc/649) | [Solution](../rust/src/solutions/p0649.rs) | Medium |
 |724. [Find Pivot Index](https://lcid.cc/724) | [Solution](../rust/src/solutions/p0724.rs) | Easy |
 |746. [Min Cost Climbing Stairs](https://lcid.cc/746) | [Solution](../rust/src/solutions/p0746.rs) | Easy |
