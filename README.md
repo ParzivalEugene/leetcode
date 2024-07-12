@@ -54,6 +54,7 @@ cd -
 |71. [Simplify Path](https://lcid.cc/71) | [Solution](../rust/src/solutions/p0071.rs) | Medium |
 |80. [Remove Duplicates from Sorted Array II](https://lcid.cc/80) | [Solution](../rust/src/solutions/p0080.rs) | Medium |
 |88. [Merge Sorted Array](https://lcid.cc/88) | [Solution](../rust/src/solutions/p0088.rs) | Easy |
+|104. [Maximum Depth of Binary Tree](https://lcid.cc/104) | [Solution](../rust/src/solutions/p0104.rs) | Easy |
 |121. [Best Time to Buy and Sell Stock](https://lcid.cc/121) | [Solution](../rust/src/solutions/p0121.rs) | Easy |
 |122. [Best Time to Buy and Sell Stock II](https://lcid.cc/122) | [Solution](../rust/src/solutions/p0122.rs) | Medium |
 |125. [Valid Palindrome](https://lcid.cc/125) | [Solution](../rust/src/solutions/p0125.rs) | Easy |
