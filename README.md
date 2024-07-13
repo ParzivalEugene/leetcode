@@ -34,6 +34,7 @@ cd -
 | Problem | Solution | Difficulty |
 |---|---|---|
 |1. [Two Sum](https://lcid.cc/1) | [Solution](../rust/src/solutions/p0001.rs) | Easy |
+|4. [Median of Two Sorted Arrays](https://lcid.cc/4) | [Solution](../rust/src/solutions/p0004.rs) | Hard |
 |6. [Zigzag Conversion](https://lcid.cc/6) | [Solution](../rust/src/solutions/p0006.rs) | Medium |
 |9. [Palindrome Number](https://lcid.cc/9) | [Solution](../rust/src/solutions/p0009.rs) | Easy |
 |11. [Container With Most Water](https://lcid.cc/11) | [Solution](../rust/src/solutions/p0011.rs) | Medium |
