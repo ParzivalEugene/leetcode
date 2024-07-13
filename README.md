@@ -66,6 +66,7 @@ cd -
 |172. [Factorial Trailing Zeroes](https://lcid.cc/172) | [Solution](../rust/src/solutions/p0172.rs) | Medium |
 |189. [Rotate Array](https://lcid.cc/189) | [Solution](../rust/src/solutions/p0189.rs) | Medium |
 |202. [Happy Number](https://lcid.cc/202) | [Solution](../rust/src/solutions/p0202.rs) | Easy |
+|203. [Remove Linked List Elements](https://lcid.cc/203) | [Solution](../rust/src/solutions/p0203.rs) | Easy |
 |205. [Isomorphic Strings](https://lcid.cc/205) | [Solution](../rust/src/solutions/p0205.rs) | Easy |
 |217. [Contains Duplicate](https://lcid.cc/217) | [Solution](../rust/src/solutions/p0217.rs) | Easy |
 |219. [Contains Duplicate II](https://lcid.cc/219) | [Solution](../rust/src/solutions/p0219.rs) | Easy |
