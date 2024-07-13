@@ -51,3 +51,4 @@ pub mod p1137;
 pub mod p0485;
 pub mod p0004;
 pub mod p1657;
+pub mod p2352;

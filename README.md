@@ -86,4 +86,5 @@ cd -
 |1550. [Three Consecutive Odds](https://lcid.cc/1550) | [Solution](../rust/src/solutions/p1550.rs) | Easy |
 |1657. [Determine if Two Strings Are Close](https://lcid.cc/1657) | [Solution](../rust/src/solutions/p1657.rs) | Medium |
 |1679. [Max Number of K-Sum Pairs](https://lcid.cc/1679) | [Solution](../rust/src/solutions/p1679.rs) | Medium |
+|2352. [Equal Row and Column Pairs](https://lcid.cc/2352) | [Solution](../rust/src/solutions/p2352.rs) | Medium |
 <!-- table end -->
