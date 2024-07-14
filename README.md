@@ -82,6 +82,7 @@ cd -
 |649. [Dota2 Senate](https://lcid.cc/649) | [Solution](../rust/src/solutions/p0649.rs) | Medium |
 |724. [Find Pivot Index](https://lcid.cc/724) | [Solution](../rust/src/solutions/p0724.rs) | Easy |
 |746. [Min Cost Climbing Stairs](https://lcid.cc/746) | [Solution](../rust/src/solutions/p0746.rs) | Easy |
+|1004. [Max Consecutive Ones III](https://lcid.cc/1004) | [Solution](../rust/src/solutions/p1004.rs) | Medium |
 |1071. [Greatest Common Divisor of Strings](https://lcid.cc/1071) | [Solution](../rust/src/solutions/p1071.rs) | Easy |
 |1137. [N-th Tribonacci Number](https://lcid.cc/1137) | [Solution](../rust/src/solutions/p1137.rs) | Easy |
 |1456. [Maximum Number of Vowels in a Substring of Given Length](https://lcid.cc/1456) | [Solution](../rust/src/solutions/p1456.rs) | Medium |
