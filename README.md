@@ -86,6 +86,7 @@ cd -
 |1071. [Greatest Common Divisor of Strings](https://lcid.cc/1071) | [Solution](../rust/src/solutions/p1071.rs) | Easy |
 |1137. [N-th Tribonacci Number](https://lcid.cc/1137) | [Solution](../rust/src/solutions/p1137.rs) | Easy |
 |1456. [Maximum Number of Vowels in a Substring of Given Length](https://lcid.cc/1456) | [Solution](../rust/src/solutions/p1456.rs) | Medium |
+|1493. [Longest Subarray of 1's After Deleting One Element](https://lcid.cc/1493) | [Solution](../rust/src/solutions/p1493.rs) | Medium |
 |1550. [Three Consecutive Odds](https://lcid.cc/1550) | [Solution](../rust/src/solutions/p1550.rs) | Easy |
 |1657. [Determine if Two Strings Are Close](https://lcid.cc/1657) | [Solution](../rust/src/solutions/p1657.rs) | Medium |
 |1679. [Max Number of K-Sum Pairs](https://lcid.cc/1679) | [Solution](../rust/src/solutions/p1679.rs) | Medium |
