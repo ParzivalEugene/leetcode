@@ -91,4 +91,5 @@ cd -
 |1657. [Determine if Two Strings Are Close](https://lcid.cc/1657) | [Solution](../rust/src/solutions/p1657.rs) | Medium |
 |1679. [Max Number of K-Sum Pairs](https://lcid.cc/1679) | [Solution](../rust/src/solutions/p1679.rs) | Medium |
 |2352. [Equal Row and Column Pairs](https://lcid.cc/2352) | [Solution](../rust/src/solutions/p2352.rs) | Medium |
+|2390. [Removing Stars From a String](https://lcid.cc/2390) | [Solution](../rust/src/solutions/p2390.rs) | Medium |
 <!-- table end -->
