@@ -76,6 +76,7 @@ cd -
 |290. [Word Pattern](https://lcid.cc/290) | [Solution](../rust/src/solutions/p0290.rs) | Easy |
 |328. [Odd Even Linked List](https://lcid.cc/328) | [Solution](../rust/src/solutions/p0328.rs) | Medium |
 |334. [Increasing Triplet Subsequence](https://lcid.cc/334) | [Solution](../rust/src/solutions/p0334.rs) | Medium |
+|338. [Counting Bits](https://lcid.cc/338) | [Solution](../rust/src/solutions/p0338.rs) | Easy |
 |383. [Ransom Note](https://lcid.cc/383) | [Solution](../rust/src/solutions/p0383.rs) | Easy |
 |392. [Is Subsequence](https://lcid.cc/392) | [Solution](../rust/src/solutions/p0392.rs) | Easy |
 |394. [Decode String](https://lcid.cc/394) | [Solution](../rust/src/solutions/p0394.rs) | Medium |
