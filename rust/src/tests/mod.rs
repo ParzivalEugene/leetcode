@@ -62,3 +62,4 @@ pub mod p0394;
 pub mod p2095;
 pub mod p0328;
 pub mod p2130;
+pub mod p0872;
