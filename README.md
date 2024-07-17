@@ -81,6 +81,7 @@ cd -
 |485. [Max Consecutive Ones](https://lcid.cc/485) | [Solution](../rust/src/solutions/p0485.rs) | Easy |
 |649. [Dota2 Senate](https://lcid.cc/649) | [Solution](../rust/src/solutions/p0649.rs) | Medium |
 |724. [Find Pivot Index](https://lcid.cc/724) | [Solution](../rust/src/solutions/p0724.rs) | Easy |
+|735. [Asteroid Collision](https://lcid.cc/735) | [Solution](../rust/src/solutions/p0735.rs) | Medium |
 |746. [Min Cost Climbing Stairs](https://lcid.cc/746) | [Solution](../rust/src/solutions/p0746.rs) | Easy |
 |1004. [Max Consecutive Ones III](https://lcid.cc/1004) | [Solution](../rust/src/solutions/p1004.rs) | Medium |
 |1071. [Greatest Common Divisor of Strings](https://lcid.cc/1071) | [Solution](../rust/src/solutions/p1071.rs) | Easy |
