@@ -74,6 +74,7 @@ cd -
 |242. [Valid Anagram](https://lcid.cc/242) | [Solution](../rust/src/solutions/p0242.rs) | Easy |
 |274. [H-Index](https://lcid.cc/274) | [Solution](../rust/src/solutions/p0274.rs) | Medium |
 |290. [Word Pattern](https://lcid.cc/290) | [Solution](../rust/src/solutions/p0290.rs) | Easy |
+|328. [Odd Even Linked List](https://lcid.cc/328) | [Solution](../rust/src/solutions/p0328.rs) | Medium |
 |334. [Increasing Triplet Subsequence](https://lcid.cc/334) | [Solution](../rust/src/solutions/p0334.rs) | Medium |
 |383. [Ransom Note](https://lcid.cc/383) | [Solution](../rust/src/solutions/p0383.rs) | Easy |
 |392. [Is Subsequence](https://lcid.cc/392) | [Solution](../rust/src/solutions/p0392.rs) | Easy |
