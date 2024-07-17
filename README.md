@@ -77,6 +77,7 @@ cd -
 |334. [Increasing Triplet Subsequence](https://lcid.cc/334) | [Solution](../rust/src/solutions/p0334.rs) | Medium |
 |383. [Ransom Note](https://lcid.cc/383) | [Solution](../rust/src/solutions/p0383.rs) | Easy |
 |392. [Is Subsequence](https://lcid.cc/392) | [Solution](../rust/src/solutions/p0392.rs) | Easy |
+|394. [Decode String](https://lcid.cc/394) | [Solution](../rust/src/solutions/p0394.rs) | Medium |
 |443. [String Compression](https://lcid.cc/443) | [Solution](../rust/src/solutions/p0443.rs) | Medium |
 |485. [Max Consecutive Ones](https://lcid.cc/485) | [Solution](../rust/src/solutions/p0485.rs) | Easy |
 |649. [Dota2 Senate](https://lcid.cc/649) | [Solution](../rust/src/solutions/p0649.rs) | Medium |
