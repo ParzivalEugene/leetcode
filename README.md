@@ -72,6 +72,7 @@ cd -
 |205. [Isomorphic Strings](https://lcid.cc/205) | [Solution](../rust/src/solutions/p0205.rs) | Easy |
 |217. [Contains Duplicate](https://lcid.cc/217) | [Solution](../rust/src/solutions/p0217.rs) | Easy |
 |219. [Contains Duplicate II](https://lcid.cc/219) | [Solution](../rust/src/solutions/p0219.rs) | Easy |
+|226. [Invert Binary Tree](https://lcid.cc/226) | [Solution](../rust/src/solutions/p0226.rs) | Easy |
 |228. [Summary Ranges](https://lcid.cc/228) | [Solution](../rust/src/solutions/p0228.rs) | Easy |
 |242. [Valid Anagram](https://lcid.cc/242) | [Solution](../rust/src/solutions/p0242.rs) | Easy |
 |274. [H-Index](https://lcid.cc/274) | [Solution](../rust/src/solutions/p0274.rs) | Medium |
