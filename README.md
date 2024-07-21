@@ -9,12 +9,14 @@
 > build pre-commit cargo before !
 
 ```bash
+#!/bin/bash
 cd pre-commit
 ./target/release/pre-commit
 cd -
 git add README.md
 
 cd rust
+cargo fmt
 IFS=$'\n'
 for line in $(git status -s)
     do
@@ -22,7 +24,6 @@ for line in $(git status -s)
         then
             if [[ $line == *.rs ]]
             then
-                cargo fmt
                 git add $(pwd)/${line:3}
             fi
         fi
