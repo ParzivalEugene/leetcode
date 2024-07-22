@@ -34,6 +34,7 @@ impl Solution {
             current_reference = &current.next;
         }
         let len = arr.len();
+        #[allow(unused_assignments)]
         let (mut local, mut max) = (0, 0);
         for i in 0..len / 2 {
             local = arr[i] + arr[len - i - 1];
