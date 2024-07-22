@@ -48,6 +48,7 @@ cd -
 |27. [Remove Element](https://lcid.cc/27) | [Solution](../rust/src/solutions/p0027.rs) | Easy |
 |28. [Find the Index of the First Occurrence in a String](https://lcid.cc/28) | [Solution](../rust/src/solutions/p0028.rs) | Easy |
 |33. [Search in Rotated Sorted Array](https://lcid.cc/33) | [Solution](../rust/src/solutions/p0033.rs) | Medium |
+|34. [Find First and Last Position of Element in Sorted Array](https://lcid.cc/34) | [Solution](../rust/src/solutions/p0034.rs) | Medium |
 |36. [Valid Sudoku](https://lcid.cc/36) | [Solution](../rust/src/solutions/p0036.rs) | Medium |
 |49. [Group Anagrams](https://lcid.cc/49) | [Solution](../rust/src/solutions/p0049.rs) | Medium |
 |54. [Spiral Matrix](https://lcid.cc/54) | [Solution](../rust/src/solutions/p0054.rs) | Medium |
