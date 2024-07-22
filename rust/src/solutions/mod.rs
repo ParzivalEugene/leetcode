@@ -20,6 +20,7 @@ pub mod p0048;
 pub mod p0049;
 pub mod p0054;
 pub mod p0055;
+pub mod p0056;
 pub mod p0058;
 pub mod p0059;
 pub mod p0066;

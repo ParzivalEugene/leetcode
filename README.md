@@ -56,6 +56,7 @@ cd -
 |49. [Group Anagrams](https://lcid.cc/49) | [Solution](../rust/src/solutions/p0049.rs) | Medium |
 |54. [Spiral Matrix](https://lcid.cc/54) | [Solution](../rust/src/solutions/p0054.rs) | Medium |
 |55. [Jump Game](https://lcid.cc/55) | [Solution](../rust/src/solutions/p0055.rs) | Medium |
+|56. [Merge Intervals](https://lcid.cc/56) | [Solution](../rust/src/solutions/p0056.rs) | Medium |
 |58. [Length of Last Word](https://lcid.cc/58) | [Solution](../rust/src/solutions/p0058.rs) | Easy |
 |59. [Spiral Matrix II](https://lcid.cc/59) | [Solution](../rust/src/solutions/p0059.rs) | Medium |
 |66. [Plus One](https://lcid.cc/66) | [Solution](../rust/src/solutions/p0066.rs) | Easy |
