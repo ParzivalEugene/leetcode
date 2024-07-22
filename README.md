@@ -33,7 +33,7 @@ cd -
 
 ### Problems
 
-![count](https://img.shields.io/badge/Solved-81-blue?style=for-the-badge)
+![count](https://img.shields.io/badge/Solved-84-blue?style=for-the-badge)
 
 <!-- table start -->
 | Problem | Solution | Difficulty |
