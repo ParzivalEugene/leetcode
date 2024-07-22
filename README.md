@@ -119,5 +119,6 @@ cd -
 |2352. [Equal Row and Column Pairs](https://lcid.cc/2352) | [Solution](../rust/src/solutions/p2352.rs) | Medium |
 |2390. [Removing Stars From a String](https://lcid.cc/2390) | [Solution](../rust/src/solutions/p2390.rs) | Medium |
 |2418. [Sort the People](https://lcid.cc/2418) | [Solution](../rust/src/solutions/p2418.rs) | Easy |
+|2769. [Find the Maximum Achievable Number](https://lcid.cc/2769) | [Solution](../rust/src/solutions/p2769.rs) | Easy |
 |3110. [Score of a String](https://lcid.cc/3110) | [Solution](../rust/src/solutions/p3110.rs) | Easy |
 <!-- table end -->
