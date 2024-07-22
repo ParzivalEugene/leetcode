@@ -31,6 +31,10 @@ for line in $(git status -s)
 cd -
 ```
 
+### Problems
+
+![count](https://img.shields.io/badge/Solved-81-blue?style=for-the-badge)
+
 <!-- table start -->
 | Problem | Solution | Difficulty |
 |---|---|---|

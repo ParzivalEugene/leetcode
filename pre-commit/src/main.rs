@@ -1,7 +1,9 @@
 use std::{
     collections::{HashMap, HashSet},
-    fs, u32,
+    fs,
 };
+
+use regex::Regex;
 
 #[derive(Hash, Eq, PartialEq)]
 enum Languages {
@@ -133,7 +135,7 @@ fn update_table(problems: &mut Vec<Problem>) {
     problems.sort_by(|a, b| a.id.cmp(&b.id));
 
     let mut table = String::new();
-    for problem in problems {
+    for problem in &mut *problems {
         table.push_str(&format!("{}\n", problem));
     }
 
@@ -144,6 +146,20 @@ fn update_table(problems: &mut Vec<Problem>) {
         table,
         readme.split("<!-- table end -->").collect::<Vec<&str>>()[1]
     );
+    let counter_regex = Regex::new(
+        r"!\[count\]\(https://img\.shields\.io/badge/Solved-(\d+)-blue\?style=for-the-badge\)",
+    )
+    .unwrap();
+    let new_readme = counter_regex
+        .replace_all(
+            &new_readme,
+            format!(
+                "![count](https://img.shields.io/badge/Solved-{}-blue?style=for-the-badge)",
+                problems.len()
+            )
+            .as_str(),
+        )
+        .to_string();
 
     fs::write(README_PATH, new_readme).expect("Unable to write file");
 }
