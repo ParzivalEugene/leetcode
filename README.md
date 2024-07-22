@@ -51,6 +51,7 @@ cd -
 |34. [Find First and Last Position of Element in Sorted Array](https://lcid.cc/34) | [Solution](../rust/src/solutions/p0034.rs) | Medium |
 |36. [Valid Sudoku](https://lcid.cc/36) | [Solution](../rust/src/solutions/p0036.rs) | Medium |
 |38. [Count and Say](https://lcid.cc/38) | [Solution](../rust/src/solutions/p0038.rs) | Medium |
+|48. [Rotate Image](https://lcid.cc/48) | [Solution](../rust/src/solutions/p0048.rs) | Medium |
 |49. [Group Anagrams](https://lcid.cc/49) | [Solution](../rust/src/solutions/p0049.rs) | Medium |
 |54. [Spiral Matrix](https://lcid.cc/54) | [Solution](../rust/src/solutions/p0054.rs) | Medium |
 |55. [Jump Game](https://lcid.cc/55) | [Solution](../rust/src/solutions/p0055.rs) | Medium |
