@@ -59,6 +59,7 @@ pub mod p0392;
 pub mod p0394;
 pub mod p0443;
 pub mod p0485;
+pub mod p0535;
 pub mod p0649;
 pub mod p0700;
 pub mod p0724;

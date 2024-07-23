@@ -33,7 +33,7 @@ cd -
 
 ### Problems
 
-![count](https://img.shields.io/badge/Solved-91-blue?style=for-the-badge)
+![count](https://img.shields.io/badge/Solved-92-blue?style=for-the-badge)
 
 <!-- table start -->
 | Problem | Solution | Difficulty |
@@ -99,6 +99,7 @@ cd -
 |394. [Decode String](https://lcid.cc/394) | [Solution](../rust/src/solutions/p0394.rs) | Medium |
 |443. [String Compression](https://lcid.cc/443) | [Solution](../rust/src/solutions/p0443.rs) | Medium |
 |485. [Max Consecutive Ones](https://lcid.cc/485) | [Solution](../rust/src/solutions/p0485.rs) | Easy |
+|535. [Encode and Decode TinyURL](https://lcid.cc/535) | [Solution](../rust/src/solutions/p0535.rs) | Medium |
 |649. [Dota2 Senate](https://lcid.cc/649) | [Solution](../rust/src/solutions/p0649.rs) | Medium |
 |700. [Search in a Binary Search Tree](https://lcid.cc/700) | [Solution](../rust/src/solutions/p0700.rs) | Easy |
 |724. [Find Pivot Index](https://lcid.cc/724) | [Solution](../rust/src/solutions/p0724.rs) | Easy |
