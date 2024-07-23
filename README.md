@@ -33,7 +33,7 @@ cd -
 
 ### Problems
 
-![count](https://img.shields.io/badge/Solved-89-blue?style=for-the-badge)
+![count](https://img.shields.io/badge/Solved-90-blue?style=for-the-badge)
 
 <!-- table start -->
 | Problem | Solution | Difficulty |
@@ -109,6 +109,7 @@ cd -
 |1004. [Max Consecutive Ones III](https://lcid.cc/1004) | [Solution](../rust/src/solutions/p1004.rs) | Medium |
 |1071. [Greatest Common Divisor of Strings](https://lcid.cc/1071) | [Solution](../rust/src/solutions/p1071.rs) | Easy |
 |1137. [N-th Tribonacci Number](https://lcid.cc/1137) | [Solution](../rust/src/solutions/p1137.rs) | Easy |
+|1282. [Group the People Given the Group Size They Belong To](https://lcid.cc/1282) | [Solution](../rust/src/solutions/p1282.rs) | Medium |
 |1448. [Count Good Nodes in Binary Tree](https://lcid.cc/1448) | [Solution](../rust/src/solutions/p1448.rs) | Medium |
 |1456. [Maximum Number of Vowels in a Substring of Given Length](https://lcid.cc/1456) | [Solution](../rust/src/solutions/p1456.rs) | Medium |
 |1493. [Longest Subarray of 1's After Deleting One Element](https://lcid.cc/1493) | [Solution](../rust/src/solutions/p1493.rs) | Medium |
