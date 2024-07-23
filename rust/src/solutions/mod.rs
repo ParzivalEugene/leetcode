@@ -74,6 +74,7 @@ pub mod p1493;
 pub mod p1550;
 pub mod p1657;
 pub mod p1679;
+pub mod p1689;
 pub mod p2095;
 pub mod p2130;
 pub mod p2181;

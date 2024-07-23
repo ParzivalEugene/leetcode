@@ -33,7 +33,7 @@ cd -
 
 ### Problems
 
-![count](https://img.shields.io/badge/Solved-84-blue?style=for-the-badge)
+![count](https://img.shields.io/badge/Solved-85-blue?style=for-the-badge)
 
 <!-- table start -->
 | Problem | Solution | Difficulty |
@@ -114,6 +114,7 @@ cd -
 |1550. [Three Consecutive Odds](https://lcid.cc/1550) | [Solution](../rust/src/solutions/p1550.rs) | Easy |
 |1657. [Determine if Two Strings Are Close](https://lcid.cc/1657) | [Solution](../rust/src/solutions/p1657.rs) | Medium |
 |1679. [Max Number of K-Sum Pairs](https://lcid.cc/1679) | [Solution](../rust/src/solutions/p1679.rs) | Medium |
+|1689. [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://lcid.cc/1689) | [Solution](../rust/src/solutions/p1689.rs) | Medium |
 |2095. [Delete the Middle Node of a Linked List](https://lcid.cc/2095) | [Solution](../rust/src/solutions/p2095.rs) | Medium |
 |2130. [Maximum Twin Sum of a Linked List](https://lcid.cc/2130) | [Solution](../rust/src/solutions/p2130.rs) | Medium |
 |2181. [Merge Nodes in Between Zeros](https://lcid.cc/2181) | [Solution](../rust/src/solutions/p2181.rs) | Medium |
