@@ -33,7 +33,7 @@ cd -
 
 ### Problems
 
-![count](https://img.shields.io/badge/Solved-87-blue?style=for-the-badge)
+![count](https://img.shields.io/badge/Solved-88-blue?style=for-the-badge)
 
 <!-- table start -->
 | Problem | Solution | Difficulty |
@@ -125,4 +125,5 @@ cd -
 |2769. [Find the Maximum Achievable Number](https://lcid.cc/2769) | [Solution](../rust/src/solutions/p2769.rs) | Easy |
 |2807. [Insert Greatest Common Divisors in Linked List](https://lcid.cc/2807) | [Solution](../rust/src/solutions/p2807.rs) | Medium |
 |3110. [Score of a String](https://lcid.cc/3110) | [Solution](../rust/src/solutions/p3110.rs) | Easy |
+|3146. [Permutation Difference between Two Strings](https://lcid.cc/3146) | [Solution](../rust/src/solutions/p3146.rs) | Easy |
 <!-- table end -->
