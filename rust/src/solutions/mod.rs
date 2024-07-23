@@ -64,6 +64,7 @@ pub mod p0700;
 pub mod p0724;
 pub mod p0735;
 pub mod p0746;
+pub mod p0771;
 pub mod p0872;
 pub mod p1004;
 pub mod p1071;

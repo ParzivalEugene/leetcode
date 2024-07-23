@@ -33,7 +33,7 @@ cd -
 
 ### Problems
 
-![count](https://img.shields.io/badge/Solved-88-blue?style=for-the-badge)
+![count](https://img.shields.io/badge/Solved-89-blue?style=for-the-badge)
 
 <!-- table start -->
 | Problem | Solution | Difficulty |
@@ -104,6 +104,7 @@ cd -
 |724. [Find Pivot Index](https://lcid.cc/724) | [Solution](../rust/src/solutions/p0724.rs) | Easy |
 |735. [Asteroid Collision](https://lcid.cc/735) | [Solution](../rust/src/solutions/p0735.rs) | Medium |
 |746. [Min Cost Climbing Stairs](https://lcid.cc/746) | [Solution](../rust/src/solutions/p0746.rs) | Easy |
+|771. [Jewels and Stones](https://lcid.cc/771) | [Solution](../rust/src/solutions/p0771.rs) | Easy |
 |872. [Leaf-Similar Trees](https://lcid.cc/872) | [Solution](../rust/src/solutions/p0872.rs) | Easy |
 |1004. [Max Consecutive Ones III](https://lcid.cc/1004) | [Solution](../rust/src/solutions/p1004.rs) | Medium |
 |1071. [Greatest Common Divisor of Strings](https://lcid.cc/1071) | [Solution](../rust/src/solutions/p1071.rs) | Easy |
