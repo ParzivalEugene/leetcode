@@ -33,7 +33,7 @@ cd -
 
 ### Problems
 
-![count](https://img.shields.io/badge/Solved-92-blue?style=for-the-badge)
+![count](https://img.shields.io/badge/Solved-93-blue?style=for-the-badge)
 
 <!-- table start -->
 | Problem | Solution | Difficulty |
@@ -116,6 +116,7 @@ cd -
 |1493. [Longest Subarray of 1's After Deleting One Element](https://lcid.cc/1493) | [Solution](../rust/src/solutions/p1493.rs) | Medium |
 |1512. [Number of Good Pairs](https://lcid.cc/1512) | [Solution](../rust/src/solutions/p1512.rs) | Easy |
 |1550. [Three Consecutive Odds](https://lcid.cc/1550) | [Solution](../rust/src/solutions/p1550.rs) | Easy |
+|1636. [Sort Array by Increasing Frequency](https://lcid.cc/1636) | [Solution](../rust/src/solutions/p1636.rs) | Easy |
 |1657. [Determine if Two Strings Are Close](https://lcid.cc/1657) | [Solution](../rust/src/solutions/p1657.rs) | Medium |
 |1679. [Max Number of K-Sum Pairs](https://lcid.cc/1679) | [Solution](../rust/src/solutions/p1679.rs) | Medium |
 |1689. [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://lcid.cc/1689) | [Solution](../rust/src/solutions/p1689.rs) | Medium |
