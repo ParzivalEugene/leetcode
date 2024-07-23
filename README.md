@@ -33,7 +33,7 @@ cd -
 
 ### Problems
 
-![count](https://img.shields.io/badge/Solved-86-blue?style=for-the-badge)
+![count](https://img.shields.io/badge/Solved-87-blue?style=for-the-badge)
 
 <!-- table start -->
 | Problem | Solution | Difficulty |
@@ -111,6 +111,7 @@ cd -
 |1448. [Count Good Nodes in Binary Tree](https://lcid.cc/1448) | [Solution](../rust/src/solutions/p1448.rs) | Medium |
 |1456. [Maximum Number of Vowels in a Substring of Given Length](https://lcid.cc/1456) | [Solution](../rust/src/solutions/p1456.rs) | Medium |
 |1493. [Longest Subarray of 1's After Deleting One Element](https://lcid.cc/1493) | [Solution](../rust/src/solutions/p1493.rs) | Medium |
+|1512. [Number of Good Pairs](https://lcid.cc/1512) | [Solution](../rust/src/solutions/p1512.rs) | Easy |
 |1550. [Three Consecutive Odds](https://lcid.cc/1550) | [Solution](../rust/src/solutions/p1550.rs) | Easy |
 |1657. [Determine if Two Strings Are Close](https://lcid.cc/1657) | [Solution](../rust/src/solutions/p1657.rs) | Medium |
 |1679. [Max Number of K-Sum Pairs](https://lcid.cc/1679) | [Solution](../rust/src/solutions/p1679.rs) | Medium |
