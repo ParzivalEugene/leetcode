@@ -33,7 +33,7 @@ cd -
 
 ### Problems
 
-![count](https://img.shields.io/badge/Solved-95-blue?style=for-the-badge)
+![count](https://img.shields.io/badge/Solved-96-blue?style=for-the-badge)
 
 <!-- table start -->
 | Problem | Solution | Difficulty |
@@ -107,6 +107,7 @@ cd -
 |746. [Min Cost Climbing Stairs](https://lcid.cc/746) | [Solution](../rust/src/solutions/p0746.rs) | Easy |
 |771. [Jewels and Stones](https://lcid.cc/771) | [Solution](../rust/src/solutions/p0771.rs) | Easy |
 |872. [Leaf-Similar Trees](https://lcid.cc/872) | [Solution](../rust/src/solutions/p0872.rs) | Easy |
+|912. [Sort an Array](https://lcid.cc/912) | [Solution](../rust/src/solutions/p0912.rs) | Medium |
 |1004. [Max Consecutive Ones III](https://lcid.cc/1004) | [Solution](../rust/src/solutions/p1004.rs) | Medium |
 |1071. [Greatest Common Divisor of Strings](https://lcid.cc/1071) | [Solution](../rust/src/solutions/p1071.rs) | Easy |
 |1137. [N-th Tribonacci Number](https://lcid.cc/1137) | [Solution](../rust/src/solutions/p1137.rs) | Easy |
