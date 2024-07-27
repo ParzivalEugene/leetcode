@@ -33,7 +33,7 @@ cd -
 
 ### Problems
 
-![count](https://img.shields.io/badge/Solved-96-blue?style=for-the-badge)
+![count](https://img.shields.io/badge/Solved-97-blue?style=for-the-badge)
 
 <!-- table start -->
 | Problem | Solution | Difficulty |
@@ -112,6 +112,7 @@ cd -
 |1071. [Greatest Common Divisor of Strings](https://lcid.cc/1071) | [Solution](../rust/src/solutions/p1071.rs) | Easy |
 |1137. [N-th Tribonacci Number](https://lcid.cc/1137) | [Solution](../rust/src/solutions/p1137.rs) | Easy |
 |1282. [Group the People Given the Group Size They Belong To](https://lcid.cc/1282) | [Solution](../rust/src/solutions/p1282.rs) | Medium |
+|1365. [How Many Numbers Are Smaller Than the Current Number](https://lcid.cc/1365) | [Solution](../rust/src/solutions/p1365.rs) | Easy |
 |1442. [Count Triplets That Can Form Two Arrays of Equal XOR](https://lcid.cc/1442) | [Solution](../rust/src/solutions/p1442.rs) | Medium |
 |1448. [Count Good Nodes in Binary Tree](https://lcid.cc/1448) | [Solution](../rust/src/solutions/p1448.rs) | Medium |
 |1456. [Maximum Number of Vowels in a Substring of Given Length](https://lcid.cc/1456) | [Solution](../rust/src/solutions/p1456.rs) | Medium |
