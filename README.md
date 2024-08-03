@@ -33,7 +33,7 @@ cd -
 
 ### Problems
 
-![count](https://img.shields.io/badge/Solved-98-blue?style=for-the-badge)
+![count](https://img.shields.io/badge/Solved-99-blue?style=for-the-badge)
 
 <!-- table start -->
 | Problem | Solution | Difficulty |
@@ -117,6 +117,7 @@ cd -
 |1442. [Count Triplets That Can Form Two Arrays of Equal XOR](https://lcid.cc/1442) | [Solution](../rust/src/solutions/p1442.rs) | Medium |
 |1448. [Count Good Nodes in Binary Tree](https://lcid.cc/1448) | [Solution](../rust/src/solutions/p1448.rs) | Medium |
 |1456. [Maximum Number of Vowels in a Substring of Given Length](https://lcid.cc/1456) | [Solution](../rust/src/solutions/p1456.rs) | Medium |
+|1460. [Make Two Arrays Equal by Reversing Subarrays](https://lcid.cc/1460) | [Solution](../rust/src/solutions/p1460.rs) | Easy |
 |1493. [Longest Subarray of 1's After Deleting One Element](https://lcid.cc/1493) | [Solution](../rust/src/solutions/p1493.rs) | Medium |
 |1512. [Number of Good Pairs](https://lcid.cc/1512) | [Solution](../rust/src/solutions/p1512.rs) | Easy |
 |1550. [Three Consecutive Odds](https://lcid.cc/1550) | [Solution](../rust/src/solutions/p1550.rs) | Easy |
