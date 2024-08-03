@@ -33,7 +33,7 @@ cd -
 
 ### Problems
 
-![count](https://img.shields.io/badge/Solved-101-blue?style=for-the-badge)
+![count](https://img.shields.io/badge/Solved-102-blue?style=for-the-badge)
 
 <!-- table start -->
 | Problem | Solution | Difficulty |
@@ -139,4 +139,5 @@ cd -
 |3110. [Score of a String](https://lcid.cc/3110) | [Solution](../rust/src/solutions/p3110.rs) | Easy |
 |3146. [Permutation Difference between Two Strings](https://lcid.cc/3146) | [Solution](../rust/src/solutions/p3146.rs) | Easy |
 |3206. [Alternating Groups I](https://lcid.cc/3206) | [Solution](../rust/src/solutions/p3206.rs) | Easy |
+|3208. [Alternating Groups II](https://lcid.cc/3208) | [Solution](../rust/src/solutions/p3208.rs) | Medium |
 <!-- table end -->
