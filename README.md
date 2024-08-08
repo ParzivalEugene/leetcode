@@ -33,7 +33,7 @@ cd -
 
 ### Problems
 
-![count](https://img.shields.io/badge/Solved-103-blue?style=for-the-badge)
+![count](https://img.shields.io/badge/Solved-104-blue?style=for-the-badge)
 
 <!-- table start -->
 | Problem | Solution | Difficulty |
@@ -106,6 +106,7 @@ cd -
 |735. [Asteroid Collision](https://lcid.cc/735) | [Solution](../rust/src/solutions/p0735.rs) | Medium |
 |746. [Min Cost Climbing Stairs](https://lcid.cc/746) | [Solution](../rust/src/solutions/p0746.rs) | Easy |
 |771. [Jewels and Stones](https://lcid.cc/771) | [Solution](../rust/src/solutions/p0771.rs) | Easy |
+|840. [Magic Squares In Grid](https://lcid.cc/840) | [Solution](../rust/src/solutions/p0840.rs) | Medium |
 |872. [Leaf-Similar Trees](https://lcid.cc/872) | [Solution](../rust/src/solutions/p0872.rs) | Easy |
 |912. [Sort an Array](https://lcid.cc/912) | [Solution](../rust/src/solutions/p0912.rs) | Medium |
 |1004. [Max Consecutive Ones III](https://lcid.cc/1004) | [Solution](../rust/src/solutions/p1004.rs) | Medium |
