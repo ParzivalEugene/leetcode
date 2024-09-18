@@ -33,7 +33,7 @@ cd -
 
 ### Problems
 <!-- counters start -->
-![all](https://img.shields.io/badge/solved-112-blue?style=for-the-badge) ![sql](https://img.shields.io/badge/sql-8-4479A1?logo=mysql&style=for-the-badge) ![rust](https://img.shields.io/badge/rust-104-000000?logo=rust&style=for-the-badge)
+![all](https://img.shields.io/badge/solved-113-blue?style=for-the-badge) ![sql](https://img.shields.io/badge/sql-9-4479A1?logo=mysql&style=for-the-badge) ![rust](https://img.shields.io/badge/rust-104-000000?logo=rust&style=for-the-badge)
 <!-- counters end -->
 <!-- table start -->
 | Problem | Solution | Difficulty |
@@ -79,6 +79,7 @@ cd -
 | 169. [Majority Element](https://lcid.cc/169) | [rust](rust/src/solutions/p0169.rs) | Easy |
 | 172. [Factorial Trailing Zeroes](https://lcid.cc/172) | [rust](rust/src/solutions/p0172.rs) | Medium |
 | 189. [Rotate Array](https://lcid.cc/189) | [rust](rust/src/solutions/p0189.rs) | Medium |
+| 197. [Rising Temperature](https://lcid.cc/197) | [sql](sql/solutions/p0197.sql) | Easy |
 | 198. [House Robber](https://lcid.cc/198) | [rust](rust/src/solutions/p0198.rs) | Medium |
 | 202. [Happy Number](https://lcid.cc/202) | [rust](rust/src/solutions/p0202.rs) | Easy |
 | 203. [Remove Linked List Elements](https://lcid.cc/203) | [rust](rust/src/solutions/p0203.rs) | Easy |
