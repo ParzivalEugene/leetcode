@@ -33,7 +33,7 @@ cd -
 
 ### Problems
 <!-- counters start -->
-![all](https://img.shields.io/badge/solved-106-blue?style=for-the-badge) ![rust](https://img.shields.io/badge/rust-104-000000?logo=rust&style=for-the-badge) ![sql](https://img.shields.io/badge/sql-2-4479A1?logo=mysql&style=for-the-badge)
+![all](https://img.shields.io/badge/solved-107-blue?style=for-the-badge) ![rust](https://img.shields.io/badge/rust-104-000000?logo=rust&style=for-the-badge) ![sql](https://img.shields.io/badge/sql-3-4479A1?logo=mysql&style=for-the-badge)
 <!-- counters end -->
 <!-- table start -->
 | Problem | Solution | Difficulty |
@@ -114,6 +114,7 @@ cd -
 | 1004. [Max Consecutive Ones III](https://lcid.cc/1004) | [rust](rust/src/solutions/p1004.rs) | Medium |
 | 1071. [Greatest Common Divisor of Strings](https://lcid.cc/1071) | [rust](rust/src/solutions/p1071.rs) | Easy |
 | 1137. [N-th Tribonacci Number](https://lcid.cc/1137) | [rust](rust/src/solutions/p1137.rs) | Easy |
+| 1148. [Article Views I](https://lcid.cc/1148) | [sql](sql/solutions/p1148.sql) | Easy |
 | 1282. [Group the People Given the Group Size They Belong To](https://lcid.cc/1282) | [rust](rust/src/solutions/p1282.rs) | Medium |
 | 1365. [How Many Numbers Are Smaller Than the Current Number](https://lcid.cc/1365) | [rust](rust/src/solutions/p1365.rs) | Easy |
 | 1395. [Count Number of Teams](https://lcid.cc/1395) | [rust](rust/src/solutions/p1395.rs) | Medium |
