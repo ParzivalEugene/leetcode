@@ -33,7 +33,7 @@ cd -
 
 ### Problems
 <!-- counters start -->
-![all](https://img.shields.io/badge/solved-109-blue?style=for-the-badge) ![sql](https://img.shields.io/badge/sql-5-4479A1?logo=mysql&style=for-the-badge) ![rust](https://img.shields.io/badge/rust-104-000000?logo=rust&style=for-the-badge)
+![all](https://img.shields.io/badge/solved-110-blue?style=for-the-badge) ![rust](https://img.shields.io/badge/rust-104-000000?logo=rust&style=for-the-badge) ![sql](https://img.shields.io/badge/sql-6-4479A1?logo=mysql&style=for-the-badge)
 <!-- counters end -->
 <!-- table start -->
 | Problem | Solution | Difficulty |
@@ -117,6 +117,7 @@ cd -
 | 1148. [Article Views I](https://lcid.cc/1148) | [sql](sql/solutions/p1148.sql) | Easy |
 | 1282. [Group the People Given the Group Size They Belong To](https://lcid.cc/1282) | [rust](rust/src/solutions/p1282.rs) | Medium |
 | 1365. [How Many Numbers Are Smaller Than the Current Number](https://lcid.cc/1365) | [rust](rust/src/solutions/p1365.rs) | Easy |
+| 1378. [Replace Employee ID With The Unique Identifier](https://lcid.cc/1378) | [sql](sql/solutions/p1378.sql) | Easy |
 | 1395. [Count Number of Teams](https://lcid.cc/1395) | [rust](rust/src/solutions/p1395.rs) | Medium |
 | 1442. [Count Triplets That Can Form Two Arrays of Equal XOR](https://lcid.cc/1442) | [rust](rust/src/solutions/p1442.rs) | Medium |
 | 1448. [Count Good Nodes in Binary Tree](https://lcid.cc/1448) | [rust](rust/src/solutions/p1448.rs) | Medium |
