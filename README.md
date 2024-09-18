@@ -33,7 +33,7 @@ cd -
 
 ### Problems
 <!-- counters start -->
-![all](https://img.shields.io/badge/solved-111-blue?style=for-the-badge) ![rust](https://img.shields.io/badge/rust-104-000000?logo=rust&style=for-the-badge) ![sql](https://img.shields.io/badge/sql-7-4479A1?logo=mysql&style=for-the-badge)
+![all](https://img.shields.io/badge/solved-112-blue?style=for-the-badge) ![sql](https://img.shields.io/badge/sql-8-4479A1?logo=mysql&style=for-the-badge) ![rust](https://img.shields.io/badge/rust-104-000000?logo=rust&style=for-the-badge)
 <!-- counters end -->
 <!-- table start -->
 | Problem | Solution | Difficulty |
@@ -128,6 +128,7 @@ cd -
 | 1508. [Range Sum of Sorted Subarray Sums](https://lcid.cc/1508) | [rust](rust/src/solutions/p1508.rs) | Medium |
 | 1512. [Number of Good Pairs](https://lcid.cc/1512) | [rust](rust/src/solutions/p1512.rs) | Easy |
 | 1550. [Three Consecutive Odds](https://lcid.cc/1550) | [rust](rust/src/solutions/p1550.rs) | Easy |
+| 1581. [Customer Who Visited but Did Not Make Any Transactions](https://lcid.cc/1581) | [sql](sql/solutions/p1581.sql) | Easy |
 | 1630. [Arithmetic Subarrays](https://lcid.cc/1630) | [rust](rust/src/solutions/p1630.rs) | Medium |
 | 1636. [Sort Array by Increasing Frequency](https://lcid.cc/1636) | [rust](rust/src/solutions/p1636.rs) | Easy |
 | 1657. [Determine if Two Strings Are Close](https://lcid.cc/1657) | [rust](rust/src/solutions/p1657.rs) | Medium |
