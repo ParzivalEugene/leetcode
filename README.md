@@ -33,7 +33,7 @@ cd -
 
 ### Problems
 <!-- counters start -->
-![all](https://img.shields.io/badge/solved-105-blue?style=for-the-badge) ![rust](https://img.shields.io/badge/rust-104-000000?logo=rust&style=for-the-badge) ![sql](https://img.shields.io/badge/sql-1-4479A1?logo=mysql&style=for-the-badge)
+![all](https://img.shields.io/badge/solved-106-blue?style=for-the-badge) ![rust](https://img.shields.io/badge/rust-104-000000?logo=rust&style=for-the-badge) ![sql](https://img.shields.io/badge/sql-2-4479A1?logo=mysql&style=for-the-badge)
 <!-- counters end -->
 <!-- table start -->
 | Problem | Solution | Difficulty |
@@ -101,6 +101,7 @@ cd -
 | 485. [Max Consecutive Ones](https://lcid.cc/485) | [rust](rust/src/solutions/p0485.rs) | Easy |
 | 535. [Encode and Decode TinyURL](https://lcid.cc/535) | [rust](rust/src/solutions/p0535.rs) | Medium |
 | 584. [Find Customer Referee](https://lcid.cc/584) | [sql](sql/solutions/p0584.sql) | Easy |
+| 595. [Big Countries](https://lcid.cc/595) | [sql](sql/solutions/p0595.sql) | Easy |
 | 649. [Dota2 Senate](https://lcid.cc/649) | [rust](rust/src/solutions/p0649.rs) | Medium |
 | 700. [Search in a Binary Search Tree](https://lcid.cc/700) | [rust](rust/src/solutions/p0700.rs) | Easy |
 | 724. [Find Pivot Index](https://lcid.cc/724) | [rust](rust/src/solutions/p0724.rs) | Easy |
