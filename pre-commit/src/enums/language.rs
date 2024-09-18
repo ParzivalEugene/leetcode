@@ -43,8 +43,8 @@ impl Language {
 
     pub fn to_readme(&self, id: &u16) -> String {
         match self {
-            Language::Rust => format!("[rust]({}p{:0>4}.rs)", constants::RUST_PATH, id),
-            Language::SQL => format!("[sql]({}p{:0>4}.sql)", constants::SQL_PATH, id),
+            Language::Rust => format!("[rust]({}p{:0>4}.rs)", &constants::RUST_PATH[3..], id),
+            Language::SQL => format!("[sql]({}p{:0>4}.sql)", &constants::SQL_PATH[3..], id),
         }
     }
 
