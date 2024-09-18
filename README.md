@@ -33,7 +33,7 @@ cd -
 
 ### Problems
 <!-- counters start -->
-![all](https://img.shields.io/badge/solved-108-blue?style=for-the-badge) ![rust](https://img.shields.io/badge/rust-104-000000?logo=rust&style=for-the-badge) ![sql](https://img.shields.io/badge/sql-4-4479A1?logo=mysql&style=for-the-badge)
+![all](https://img.shields.io/badge/solved-109-blue?style=for-the-badge) ![sql](https://img.shields.io/badge/sql-5-4479A1?logo=mysql&style=for-the-badge) ![rust](https://img.shields.io/badge/rust-104-000000?logo=rust&style=for-the-badge)
 <!-- counters end -->
 <!-- table start -->
 | Problem | Solution | Difficulty |
@@ -130,6 +130,7 @@ cd -
 | 1636. [Sort Array by Increasing Frequency](https://lcid.cc/1636) | [rust](rust/src/solutions/p1636.rs) | Easy |
 | 1657. [Determine if Two Strings Are Close](https://lcid.cc/1657) | [rust](rust/src/solutions/p1657.rs) | Medium |
 | 1679. [Max Number of K-Sum Pairs](https://lcid.cc/1679) | [rust](rust/src/solutions/p1679.rs) | Medium |
+| 1683. [Invalid Tweets](https://lcid.cc/1683) | [sql](sql/solutions/p1683.sql) | Easy |
 | 1689. [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://lcid.cc/1689) | [rust](rust/src/solutions/p1689.rs) | Medium |
 | 1757. [Recyclable and Low Fat Products](https://lcid.cc/1757) | [sql](sql/solutions/p1757.sql) | Easy |
 | 2095. [Delete the Middle Node of a Linked List](https://lcid.cc/2095) | [rust](rust/src/solutions/p2095.rs) | Medium |
