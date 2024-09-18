@@ -8,8 +8,8 @@ fn main() {
     let solutions = services::solutions::get_solutions();
 
     let updated_solutions = services::solutions::update_solutions(records.clone(), solutions);
-    let new_table = services::readme::update_table(updated_solutions);
-    let new_counters = services::readme::update_counters(&records);
+    let new_table = services::readme::update_table(updated_solutions.clone());
+    let new_counters = services::readme::update_counters(&updated_solutions);
 
     services::readme::write(new_table, new_counters);
 }
