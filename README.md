@@ -33,7 +33,7 @@ cd -
 
 ### Problems
 <!-- counters start -->
-![all](https://img.shields.io/badge/solved-113-blue?style=for-the-badge) ![sql](https://img.shields.io/badge/sql-9-4479A1?logo=mysql&style=for-the-badge) ![rust](https://img.shields.io/badge/rust-104-000000?logo=rust&style=for-the-badge)
+![all](https://img.shields.io/badge/solved-114-blue?style=for-the-badge) ![sql](https://img.shields.io/badge/sql-10-4479A1?logo=mysql&style=for-the-badge) ![rust](https://img.shields.io/badge/rust-104-000000?logo=rust&style=for-the-badge)
 <!-- counters end -->
 <!-- table start -->
 | Problem | Solution | Difficulty |
@@ -133,6 +133,7 @@ cd -
 | 1630. [Arithmetic Subarrays](https://lcid.cc/1630) | [rust](rust/src/solutions/p1630.rs) | Medium |
 | 1636. [Sort Array by Increasing Frequency](https://lcid.cc/1636) | [rust](rust/src/solutions/p1636.rs) | Easy |
 | 1657. [Determine if Two Strings Are Close](https://lcid.cc/1657) | [rust](rust/src/solutions/p1657.rs) | Medium |
+| 1661. [Average Time of Process per Machine](https://lcid.cc/1661) | [sql](sql/solutions/p1661.sql) | Easy |
 | 1679. [Max Number of K-Sum Pairs](https://lcid.cc/1679) | [rust](rust/src/solutions/p1679.rs) | Medium |
 | 1683. [Invalid Tweets](https://lcid.cc/1683) | [sql](sql/solutions/p1683.sql) | Easy |
 | 1689. [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://lcid.cc/1689) | [rust](rust/src/solutions/p1689.rs) | Medium |
