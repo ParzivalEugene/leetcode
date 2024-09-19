@@ -33,7 +33,7 @@ cd -
 
 ### Problems
 <!-- counters start -->
-![all](https://img.shields.io/badge/solved-114-blue?style=for-the-badge) ![sql](https://img.shields.io/badge/sql-10-4479A1?logo=mysql&style=for-the-badge) ![rust](https://img.shields.io/badge/rust-104-000000?logo=rust&style=for-the-badge)
+![all](https://img.shields.io/badge/solved-115-blue?style=for-the-badge) ![rust](https://img.shields.io/badge/rust-104-000000?logo=rust&style=for-the-badge) ![sql](https://img.shields.io/badge/sql-11-4479A1?logo=mysql&style=for-the-badge)
 <!-- counters end -->
 <!-- table start -->
 | Problem | Solution | Difficulty |
@@ -101,6 +101,7 @@ cd -
 | 443. [String Compression](https://lcid.cc/443) | [rust](rust/src/solutions/p0443.rs) | Medium |
 | 485. [Max Consecutive Ones](https://lcid.cc/485) | [rust](rust/src/solutions/p0485.rs) | Easy |
 | 535. [Encode and Decode TinyURL](https://lcid.cc/535) | [rust](rust/src/solutions/p0535.rs) | Medium |
+| 577. [Employee Bonus](https://lcid.cc/577) | [sql](sql/solutions/p0577.sql) | Easy |
 | 584. [Find Customer Referee](https://lcid.cc/584) | [sql](sql/solutions/p0584.sql) | Easy |
 | 595. [Big Countries](https://lcid.cc/595) | [sql](sql/solutions/p0595.sql) | Easy |
 | 649. [Dota2 Senate](https://lcid.cc/649) | [rust](rust/src/solutions/p0649.rs) | Medium |
