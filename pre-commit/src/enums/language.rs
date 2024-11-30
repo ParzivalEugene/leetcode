@@ -39,6 +39,7 @@ impl Language {
         match extension {
             "rs" => Language::Rust,
             "sql" => Language::SQL,
+            "py" => Language::Python,
             _ => panic!("Invalid extension {}", extension),
         }
     }

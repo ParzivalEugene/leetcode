@@ -33,7 +33,7 @@ cd -
 
 ### Problems
 <!-- counters start -->
-![all](https://img.shields.io/badge/solved-116-blue?style=for-the-badge) ![rust](https://img.shields.io/badge/rust-104-000000?logo=rust&style=for-the-badge) ![sql](https://img.shields.io/badge/sql-12-4479A1?logo=mysql&style=for-the-badge)
+![all](https://img.shields.io/badge/solved-117-blue?style=for-the-badge) ![rust](https://img.shields.io/badge/rust-104-000000?logo=rust&style=for-the-badge) ![sql](https://img.shields.io/badge/sql-12-4479A1?logo=mysql&style=for-the-badge) ![python](https://img.shields.io/badge/python-1-3776AB?logo=python&style=for-the-badge)
 <!-- counters end -->
 <!-- table start -->
 | Problem | Solution | Difficulty |
@@ -143,6 +143,7 @@ cd -
 | 2095. [Delete the Middle Node of a Linked List](https://lcid.cc/2095) | [rust](rust/src/solutions/p2095.rs) | Medium |
 | 2130. [Maximum Twin Sum of a Linked List](https://lcid.cc/2130) | [rust](rust/src/solutions/p2130.rs) | Medium |
 | 2181. [Merge Nodes in Between Zeros](https://lcid.cc/2181) | [rust](rust/src/solutions/p2181.rs) | Medium |
+| 2239. [Find Closest Number to Zero](https://lcid.cc/2239) | [python](python/solutions/p2239.py) | Easy |
 | 2352. [Equal Row and Column Pairs](https://lcid.cc/2352) | [rust](rust/src/solutions/p2352.rs) | Medium |
 | 2390. [Removing Stars From a String](https://lcid.cc/2390) | [rust](rust/src/solutions/p2390.rs) | Medium |
 | 2418. [Sort the People](https://lcid.cc/2418) | [rust](rust/src/solutions/p2418.rs) | Easy |
