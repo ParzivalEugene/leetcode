@@ -33,7 +33,7 @@ cd -
 
 ### Problems
 <!-- counters start -->
-![all](https://img.shields.io/badge/solved-118-blue?style=for-the-badge) ![python](https://img.shields.io/badge/python-3-3776AB?logo=python&style=for-the-badge) ![rust](https://img.shields.io/badge/rust-104-000000?logo=rust&style=for-the-badge) ![sql](https://img.shields.io/badge/sql-12-4479A1?logo=mysql&style=for-the-badge)
+![all](https://img.shields.io/badge/solved-118-blue?style=for-the-badge) ![python](https://img.shields.io/badge/python-4-3776AB?logo=python&style=for-the-badge) ![rust](https://img.shields.io/badge/rust-104-000000?logo=rust&style=for-the-badge) ![sql](https://img.shields.io/badge/sql-12-4479A1?logo=mysql&style=for-the-badge)
 <!-- counters end -->
 <!-- table start -->
 | Problem | Solution | Difficulty |
@@ -44,7 +44,7 @@ cd -
 | 9. [Palindrome Number](https://lcid.cc/9) | [rust](rust/src/solutions/p0009.rs) | Easy |
 | 11. [Container With Most Water](https://lcid.cc/11) | [rust](rust/src/solutions/p0011.rs) | Medium |
 | 13. [Roman to Integer](https://lcid.cc/13) | [rust](rust/src/solutions/p0013.rs) | Easy |
-| 14. [Longest Common Prefix](https://lcid.cc/14) | [rust](rust/src/solutions/p0014.rs) | Easy |
+| 14. [Longest Common Prefix](https://lcid.cc/14) | [rust](rust/src/solutions/p0014.rs), [python](python/solutions/p0014.py) | Easy |
 | 17. [Letter Combinations of a Phone Number](https://lcid.cc/17) | [rust](rust/src/solutions/p0017.rs) | Medium |
 | 20. [Valid Parentheses](https://lcid.cc/20) | [rust](rust/src/solutions/p0020.rs) | Easy |
 | 21. [Merge Two Sorted Lists](https://lcid.cc/21) | [rust](rust/src/solutions/p0021.rs) | Easy |
