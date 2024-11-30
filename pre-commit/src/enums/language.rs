@@ -3,6 +3,7 @@ use crate::constants;
 #[derive(Hash, Eq, PartialEq, Clone)]
 #[allow(clippy::upper_case_acronyms)]
 pub enum Language {
+    Python,
     Rust,
     SQL,
 }
@@ -28,6 +29,7 @@ impl std::fmt::Display for Language {
         match self {
             Language::Rust => write!(f, "rust"),
             Language::SQL => write!(f, "sql"),
+            Language::Python => write!(f, "python"),
         }
     }
 }
@@ -45,6 +47,7 @@ impl Language {
         match self {
             Language::Rust => format!("[rust]({}p{:0>4}.rs)", &constants::RUST_PATH[3..], id),
             Language::SQL => format!("[sql]({}p{:0>4}.sql)", &constants::SQL_PATH[3..], id),
+            Language::Python => format!("[python]({}p{:0>4}.py)", &constants::PYTHON_PATH[3..], id),
         }
     }
 
@@ -52,6 +55,7 @@ impl Language {
         match self {
             Language::Rust => format!("![rust](https://img.shields.io/badge/rust-{}-000000?logo=rust&style=for-the-badge)", count),
             Language::SQL => format!("![sql](https://img.shields.io/badge/sql-{}-4479A1?logo=mysql&style=for-the-badge)", count),
+            Language::Python => format!("![python](https://img.shields.io/badge/python-{}-3776AB?logo=python&style=for-the-badge)", count),
         }
     }
 }

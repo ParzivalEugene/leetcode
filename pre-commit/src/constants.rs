@@ -1,6 +1,7 @@
 pub const RUST_PATH: &str = "../rust/src/solutions/";
 pub const SQL_PATH: &str = "../sql/solutions/";
-pub const SOLUTION_PATHS: [&str; 2] = [RUST_PATH, SQL_PATH];
+pub const PYTHON_PATH: &str = "../python/solutions/";
+pub const SOLUTION_PATHS: [&str; 3] = [RUST_PATH, SQL_PATH, PYTHON_PATH];
 
 pub const README_PATH: &str = "../README.md";
 
