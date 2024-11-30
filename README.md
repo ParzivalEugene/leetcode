@@ -33,7 +33,7 @@ cd -
 
 ### Problems
 <!-- counters start -->
-![all](https://img.shields.io/badge/solved-118-blue?style=for-the-badge) ![python](https://img.shields.io/badge/python-4-3776AB?logo=python&style=for-the-badge) ![rust](https://img.shields.io/badge/rust-104-000000?logo=rust&style=for-the-badge) ![sql](https://img.shields.io/badge/sql-12-4479A1?logo=mysql&style=for-the-badge)
+![all](https://img.shields.io/badge/solved-118-blue?style=for-the-badge) ![python](https://img.shields.io/badge/python-5-3776AB?logo=python&style=for-the-badge) ![rust](https://img.shields.io/badge/rust-104-000000?logo=rust&style=for-the-badge) ![sql](https://img.shields.io/badge/sql-12-4479A1?logo=mysql&style=for-the-badge)
 <!-- counters end -->
 <!-- table start -->
 | Problem | Solution | Difficulty |
@@ -88,7 +88,7 @@ cd -
 | 217. [Contains Duplicate](https://lcid.cc/217) | [rust](rust/src/solutions/p0217.rs) | Easy |
 | 219. [Contains Duplicate II](https://lcid.cc/219) | [rust](rust/src/solutions/p0219.rs) | Easy |
 | 226. [Invert Binary Tree](https://lcid.cc/226) | [rust](rust/src/solutions/p0226.rs) | Easy |
-| 228. [Summary Ranges](https://lcid.cc/228) | [rust](rust/src/solutions/p0228.rs) | Easy |
+| 228. [Summary Ranges](https://lcid.cc/228) | [rust](rust/src/solutions/p0228.rs), [python](python/solutions/p0228.py) | Easy |
 | 242. [Valid Anagram](https://lcid.cc/242) | [rust](rust/src/solutions/p0242.rs) | Easy |
 | 274. [H-Index](https://lcid.cc/274) | [rust](rust/src/solutions/p0274.rs) | Medium |
 | 290. [Word Pattern](https://lcid.cc/290) | [rust](rust/src/solutions/p0290.rs) | Easy |
