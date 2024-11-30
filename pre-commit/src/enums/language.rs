@@ -1,6 +1,6 @@
 use crate::constants;
 
-#[derive(Hash, Eq, PartialEq, Clone)]
+#[derive(Hash, Eq, PartialEq, PartialOrd, Ord, Clone)]
 #[allow(clippy::upper_case_acronyms)]
 pub enum Language {
     Python,
@@ -13,6 +13,7 @@ impl From<&str> for Language {
         match s {
             "rust" => Language::Rust,
             "sql" => Language::SQL,
+            "python" => Language::Python,
             _ => panic!("Invalid language"),
         }
     }

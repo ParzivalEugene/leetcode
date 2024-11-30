@@ -33,7 +33,7 @@ cd -
 
 ### Problems
 <!-- counters start -->
-![all](https://img.shields.io/badge/solved-117-blue?style=for-the-badge) ![rust](https://img.shields.io/badge/rust-104-000000?logo=rust&style=for-the-badge) ![sql](https://img.shields.io/badge/sql-12-4479A1?logo=mysql&style=for-the-badge) ![python](https://img.shields.io/badge/python-1-3776AB?logo=python&style=for-the-badge)
+![all](https://img.shields.io/badge/solved-118-blue?style=for-the-badge) ![python](https://img.shields.io/badge/python-3-3776AB?logo=python&style=for-the-badge) ![rust](https://img.shields.io/badge/rust-104-000000?logo=rust&style=for-the-badge) ![sql](https://img.shields.io/badge/sql-12-4479A1?logo=mysql&style=for-the-badge)
 <!-- counters end -->
 <!-- table start -->
 | Problem | Solution | Difficulty |
@@ -96,7 +96,7 @@ cd -
 | 334. [Increasing Triplet Subsequence](https://lcid.cc/334) | [rust](rust/src/solutions/p0334.rs) | Medium |
 | 338. [Counting Bits](https://lcid.cc/338) | [rust](rust/src/solutions/p0338.rs) | Easy |
 | 383. [Ransom Note](https://lcid.cc/383) | [rust](rust/src/solutions/p0383.rs) | Easy |
-| 392. [Is Subsequence](https://lcid.cc/392) | [rust](rust/src/solutions/p0392.rs) | Easy |
+| 392. [Is Subsequence](https://lcid.cc/392) | [rust](rust/src/solutions/p0392.rs), [python](python/solutions/p0392.py) | Easy |
 | 394. [Decode String](https://lcid.cc/394) | [rust](rust/src/solutions/p0394.rs) | Medium |
 | 443. [String Compression](https://lcid.cc/443) | [rust](rust/src/solutions/p0443.rs) | Medium |
 | 485. [Max Consecutive Ones](https://lcid.cc/485) | [rust](rust/src/solutions/p0485.rs) | Easy |
@@ -140,6 +140,7 @@ cd -
 | 1683. [Invalid Tweets](https://lcid.cc/1683) | [sql](sql/solutions/p1683.sql) | Easy |
 | 1689. [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://lcid.cc/1689) | [rust](rust/src/solutions/p1689.rs) | Medium |
 | 1757. [Recyclable and Low Fat Products](https://lcid.cc/1757) | [sql](sql/solutions/p1757.sql) | Easy |
+| 1768. [Merge Strings Alternately](https://lcid.cc/1768) | [python](python/solutions/p1768.py) | Easy |
 | 2095. [Delete the Middle Node of a Linked List](https://lcid.cc/2095) | [rust](rust/src/solutions/p2095.rs) | Medium |
 | 2130. [Maximum Twin Sum of a Linked List](https://lcid.cc/2130) | [rust](rust/src/solutions/p2130.rs) | Medium |
 | 2181. [Merge Nodes in Between Zeros](https://lcid.cc/2181) | [rust](rust/src/solutions/p2181.rs) | Medium |

@@ -1,4 +1,4 @@
-use std::collections::{HashMap, HashSet};
+use std::collections::{BTreeMap, HashSet};
 
 use crate::{constants, data::Record, enums::Language};
 
@@ -8,7 +8,7 @@ pub fn update_counters(records: &Vec<Record>) -> String {
         .map(|record| record.id)
         .collect::<HashSet<u16>>()
         .len();
-    let mut counter: HashMap<Language, u32> = HashMap::new();
+    let mut counter: BTreeMap<Language, u32> = BTreeMap::new();
 
     for record in records {
         for language in record.solutions.clone() {
