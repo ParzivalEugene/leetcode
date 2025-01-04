@@ -33,7 +33,7 @@ cd -
 
 ### Problems
 <!-- counters start -->
-![all](https://img.shields.io/badge/solved-120-blue?style=for-the-badge) ![python](https://img.shields.io/badge/python-6-3776AB?logo=python&style=for-the-badge) ![rust](https://img.shields.io/badge/rust-105-000000?logo=rust&style=for-the-badge) ![sql](https://img.shields.io/badge/sql-12-4479A1?logo=mysql&style=for-the-badge)
+![all](https://img.shields.io/badge/solved-121-blue?style=for-the-badge) ![python](https://img.shields.io/badge/python-7-3776AB?logo=python&style=for-the-badge) ![rust](https://img.shields.io/badge/rust-105-000000?logo=rust&style=for-the-badge) ![sql](https://img.shields.io/badge/sql-12-4479A1?logo=mysql&style=for-the-badge)
 <!-- counters end -->
 <!-- table start -->
 | Problem | Solution | Difficulty |
@@ -116,6 +116,7 @@ cd -
 | 872. [Leaf-Similar Trees](https://lcid.cc/872) | [rust](rust/src/solutions/p0872.rs) | Easy |
 | 912. [Sort an Array](https://lcid.cc/912) | [rust](rust/src/solutions/p0912.rs) | Medium |
 | 1004. [Max Consecutive Ones III](https://lcid.cc/1004) | [rust](rust/src/solutions/p1004.rs) | Medium |
+| 1038. [Binary Search Tree to Greater Sum Tree](https://lcid.cc/1038) | [python](python/solutions/p1038.py) | Medium |
 | 1068. [Product Sales Analysis I](https://lcid.cc/1068) | [sql](sql/solutions/p1068.sql) | Easy |
 | 1071. [Greatest Common Divisor of Strings](https://lcid.cc/1071) | [rust](rust/src/solutions/p1071.rs) | Easy |
 | 1137. [N-th Tribonacci Number](https://lcid.cc/1137) | [rust](rust/src/solutions/p1137.rs) | Easy |
