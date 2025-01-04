@@ -16,6 +16,7 @@ pub mod p0034;
 pub mod p0036;
 pub mod p0038;
 pub mod p0043;
+pub mod p0045;
 pub mod p0048;
 pub mod p0049;
 pub mod p0054;

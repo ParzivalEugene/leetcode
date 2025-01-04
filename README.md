@@ -33,7 +33,7 @@ cd -
 
 ### Problems
 <!-- counters start -->
-![all](https://img.shields.io/badge/solved-119-blue?style=for-the-badge) ![python](https://img.shields.io/badge/python-6-3776AB?logo=python&style=for-the-badge) ![rust](https://img.shields.io/badge/rust-104-000000?logo=rust&style=for-the-badge) ![sql](https://img.shields.io/badge/sql-12-4479A1?logo=mysql&style=for-the-badge)
+![all](https://img.shields.io/badge/solved-120-blue?style=for-the-badge) ![python](https://img.shields.io/badge/python-6-3776AB?logo=python&style=for-the-badge) ![rust](https://img.shields.io/badge/rust-105-000000?logo=rust&style=for-the-badge) ![sql](https://img.shields.io/badge/sql-12-4479A1?logo=mysql&style=for-the-badge)
 <!-- counters end -->
 <!-- table start -->
 | Problem | Solution | Difficulty |
@@ -56,6 +56,7 @@ cd -
 | 36. [Valid Sudoku](https://lcid.cc/36) | [rust](rust/src/solutions/p0036.rs) | Medium |
 | 38. [Count and Say](https://lcid.cc/38) | [rust](rust/src/solutions/p0038.rs) | Medium |
 | 43. [Multiply Strings](https://lcid.cc/43) | [rust](rust/src/solutions/p0043.rs) | Medium |
+| 45. [Jump Game II](https://lcid.cc/45) | [rust](rust/src/solutions/p0045.rs) | Medium |
 | 48. [Rotate Image](https://lcid.cc/48) | [rust](rust/src/solutions/p0048.rs) | Medium |
 | 49. [Group Anagrams](https://lcid.cc/49) | [rust](rust/src/solutions/p0049.rs) | Medium |
 | 54. [Spiral Matrix](https://lcid.cc/54) | [rust](rust/src/solutions/p0054.rs) | Medium |
